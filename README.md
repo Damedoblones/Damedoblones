@@ -5,7 +5,6 @@
 - **Fecha de Nacimiento:** 25 de Octubre de 2005
 - **Nacionalidad:** Española  
 - **Estado Civil:** Soltero  
-- **Teléfono:** (+34) 617-390-940  
 
 ## Idiomas
 - Español: Nativo  
