@@ -1,16 +1,15 @@
-## Hi there 👋
-
+## Titulo del proyecto de GBD
 <!--
-**Damedoblones/Damedoblones** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Información Personal
+- **Nombre Completo:** Marcos López Pericás
+- **Fecha de Nacimiento:** 25 de Octubre de 2005
+- **Nacionalidad:** Española  
+- **Estado Civil:** Soltero  
+- **Teléfono:** (+34) 617-390-940  
 
-Here are some ideas to get you started:
+## Idiomas
+- Español: Nativo  
+- Inglés: Avanzado (C1)  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Referencias
+Disponibles a solicitud.
